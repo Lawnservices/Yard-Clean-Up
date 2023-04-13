@@ -1,20 +1,35 @@
 body{
   padding: 0;
   margin: 0;
+  background-image: url(https://lagunalawnservice.com/img/casa-28.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100%;
 }
 .mas{
+  overflow: hidden;
   width: 100%;
   padding: 0;
   margin: 0;
   background-color: #299684;
-  padding: 16px 16px;
+  
   
 }
 .mas h1{
   text-align: center;
   color: #ffff;
+   
+}
+.nunber{
+  overflow: hidden;
+  background-color: #036;
+  position: relative;
+  padding: 0;
+  margin: 0;
 }
 .nunber h2{
-  color: #154;
-  margin-left: 40px;
+  color: #fff;
+  
+  margin-left: 26px;
+
 }
